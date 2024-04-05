@@ -3,11 +3,11 @@
 <h3 align="center">I'm a passionate Fullstack Developer from Stockholm, Sweden.</h3>
 
 
-## 🙋‍♂️ I'm Ewy Rostam and I study and learn design & development. I really enjoy learning languages and frameworks like React and javascript and much more, as well as work in WordPress because of the big community and templates. I also enjoy wireframing, ui, ux, and design in general. You can check out my repositories to see my work 
+## 🙋‍♂️ I'm Ewy Rostam and I study and learn design & development. I really enjoy learning languages and frameworks like React and javascript and much more, as well as work in WordPress because of the big community and templates. I also enjoy wireframing, ui, ux, and design in general. You can check out my repositories to see my work.
 
 - 🔭 I’m currently working at **(salt)**
 
-- 🌱 I’m currently learning **React. & alot of other**
+- 🌱 I’m currently learning **React. & alot of other languages**
 
 - 👨‍💻 All of my projects are available at [link](https://github.com/ewyrostam?tab=repositories)
 
@@ -42,7 +42,6 @@
 
 ## 📊 My Github Stats
 
-  <br/>
 
 <a href="https://github.com/Ewyrostam/github-readme-stats" align="center"><img alt="" src="https://github-readme-stats.vercel.app/api?username=Ewyrostam&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"></a> 
 
@@ -51,10 +50,6 @@
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-
-<br/>
-<br/>
-<br/>
 <br/>
 
 ## Connect with me:
