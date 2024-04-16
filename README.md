@@ -1,9 +1,9 @@
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ewy Rostam</h1>
+<h1 align="center">Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Ewy Rostam</h1>
 <h3 align="center">Full-Stack | C# | JavaScript | TypeScript</h3>
 
 
-## 🌱 About Me
+### 🌱 About Me
 
 • 💼 Currently working as a Full-Stack developer at **&lt;salt/&gt;** <br>
 <br>
@@ -11,18 +11,19 @@
 <br>
 • 🧪 Thrive on test-driven development <br>
 <br>
-• 🔧 Experienced using frameworks and tools like **.Net**, **Entity Framework Core**, **ASP.NET**, **MVC**, **Blazor**, **Web API**, **React**, **Azure**, **Github Actions**... <br>
-<br>
 • 🔭 Embrace continuous learning <br>
 <br>
-
-- 💻 All of my projects are available at [link](https://github.com/ewyrostam?tab=repositories)
-
-- 📫 How to reach me: **ewy.rostam@appliedtechnology.se**
+• 🔧 Experienced using frameworks and tools like **.Net**, **Entity Framework Core**, **ASP.NET**, **MVC**, **Blazor**, **Web API**, **React**, **Azure**, **Github Actions**... <br>
+<br>
 
 
+#### 💻 All of my projects are available at [link](https://github.com/ewyrostam?tab=repositories)
 
-## 💎 Languages and Tools:
+#### - 📫 How to reach me: **ewy.rostam@appliedtechnology.se**
+
+
+
+### 💎 Languages and Tools:
 
 <p align="left"> 
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
@@ -47,7 +48,7 @@
     </a>
 </p>
 
-## 📊 My Github Stats
+### 📊 My Github Stats
 
 
 <a href="https://github.com/Ewyrostam/github-readme-stats" align="center"><img alt="" src="https://github-readme-stats.vercel.app/api?username=Ewyrostam&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"></a> 
@@ -59,12 +60,12 @@
 
 <br/>
 
-## Connect with me:
+### Connect with me:
 <p align="left">
 <a href = "[https://www.linkedin.com/in/peywan-s-333b86208/](https://www.linkedin.com/in/ewy-rostam-6b1b0b28a/)"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 </p>
 
-## ❤ Views and Followers
+### ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Ewyrostam">
 </a>
