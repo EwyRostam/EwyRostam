@@ -1,17 +1,19 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ewy Rostam</h1>
-<h3 align="center">I'm a passionate Fullstack Developer from Stockholm, Sweden.</h3>
+<h3 align="center">Full-Stack | C# | JavaScript | TypeScript</h3>
 
 
-## 🙋‍♂️ I'm Ewy Rostam and I study and learn design & development. I really enjoy learning languages and frameworks like React and javascript and much more, as well as work in WordPress because of the big community and templates. I also enjoy wireframing, ui, ux, and design in general. You can check out my repositories to see my work.
+## 🌱 About Me
 
-- 🔭 I’m currently working at **(salt)**
+• 💼 Currently working as a Full-Stack developer at **<salt/>**
+• 🎓 My main languages are **C#**, **JavaScript/TypeScript**, **HTML** and **CSS**
+• 🔧 Experienced using frameworks and tools like **.Net**, **Entity Framework Core**, **ASP.NET**, **MVC**, **Blazor**, **Web API**, **React**, **Tailwind**, **Azure**, **Github Actions**...
+• 🧪 Thrive on test-driven development
+• 🔭 Embrace continuous learning
 
-- 🌱 I’m currently learning **React. & alot of other languages**
+- 💻 All of my projects are available at [link](https://github.com/ewyrostam?tab=repositories)
 
-- 👨‍💻 All of my projects are available at [link](https://github.com/ewyrostam?tab=repositories)
-
-- 📫 How to reach me: **Ewy.rostam@appliedtechnology.se**
+- 📫 How to reach me: **ewy.rostam@appliedtechnology.se**
 
 
 
