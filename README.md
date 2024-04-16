@@ -36,16 +36,16 @@
 <a href="https://reactjs.org/"> <img height="60px" widht="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" /></a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> 
-<img height="60px" widht="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /></a> 
+<img height="60px" widht="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /></a>
 
 <a href="https://www.w3.org/html/"> 
-<img height="60px" widht="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" /></a> 
+<img height="60px" widht="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" /></a>
 
 <a href="https://www.w3schools.com/css/" > 
 <img height="60px" widht="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /></a>
 
 <a href="https://nodejs.org" > 
-<img height="60px" widht="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" /></a> 
+<img height="60px" widht="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" /></a>
 
 <a href="https://tailwindcss.com/">
 <img height="60px" widht="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" /></a>
