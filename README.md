@@ -5,8 +5,8 @@
 
 ## 🌱 About Me
 
-• 💼 Currently working as a Full-Stack developer at <salt/> <br>
-• 🎓 My main languages are **C#**, **JavaScript/TypeScript**, **HTML** and **CSS** <br>
+• 💼 Currently working as a Full-Stack developer at **<salt/>** <br>
+• 🎓 My main languages are *C#*, **JavaScript/TypeScript**, **HTML** and **CSS** <br>
 • 🔧 Experienced using frameworks and tools like **.Net**, **Entity Framework Core**, **ASP.NET**, **MVC**, **Blazor**, **Web API**, **React**, **Tailwind**, **Azure**, **Github Actions**... <br>
 • 🧪 Thrive on test-driven development <br>
 • 🔭 Embrace continuous learning <br>
