@@ -6,10 +6,15 @@
 ## 🌱 About Me
 
 • 💼 Currently working as a Full-Stack developer at **&lt;salt/&gt;** <br>
+<br>
 • 🎓 My main languages are **C#**, **JavaScript/TypeScript**, **HTML** and **CSS** <br>
-• 🔧 Experienced using frameworks and tools like **.Net**, **Entity Framework Core**, **ASP.NET**, **MVC**, **Blazor**, **Web API**, **React**, **Azure**, **Github Actions**... <br>
+<br>
 • 🧪 Thrive on test-driven development <br>
+<br>
+• 🔧 Experienced using frameworks and tools like **.Net**, **Entity Framework Core**, **ASP.NET**, **MVC**, **Blazor**, **Web API**, **React**, **Azure**, **Github Actions**... <br>
+<br>
 • 🔭 Embrace continuous learning <br>
+<br>
 
 - 💻 All of my projects are available at [link](https://github.com/ewyrostam?tab=repositories)
 
