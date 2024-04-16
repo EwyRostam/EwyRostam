@@ -48,7 +48,7 @@
 <img height="60px" widht="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" /></a>
 
 <a href="https://tailwindcss.com/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" /></a>
+<img height="80px" widht="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" /></a>
 
 <a href="https://git-scm.com/" > <img height="60px" widht="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" /></a> 
   
