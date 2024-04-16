@@ -5,11 +5,11 @@
 
 ## 🌱 About Me
 
-• 💼 Currently working as a Full-Stack developer at **<salt/>**
-• 🎓 My main languages are **C#**, **JavaScript/TypeScript**, **HTML** and **CSS**
-• 🔧 Experienced using frameworks and tools like **.Net**, **Entity Framework Core**, **ASP.NET**, **MVC**, **Blazor**, **Web API**, **React**, **Tailwind**, **Azure**, **Github Actions**...
-• 🧪 Thrive on test-driven development
-• 🔭 Embrace continuous learning
+• 💼 Currently working as a Full-Stack developer at **<salt/>** <br>
+• 🎓 My main languages are **C#**, **JavaScript/TypeScript**, **HTML** and **CSS** <br>
+• 🔧 Experienced using frameworks and tools like **.Net**, **Entity Framework Core**, **ASP.NET**, **MVC**, **Blazor**, **Web API**, **React**, **Tailwind**, **Azure**, **Github Actions**... <br>
+• 🧪 Thrive on test-driven development <br>
+• 🔭 Embrace continuous learning <br>
 
 - 💻 All of my projects are available at [link](https://github.com/ewyrostam?tab=repositories)
 
@@ -17,7 +17,7 @@
 
 
 
-## 🚀 Languages and Tools:
+## 💎 Languages and Tools:
 
 <p align="left"> 
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
