@@ -82,9 +82,9 @@
 
 #### ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Ewyrostam">
+    <img src="https://komarev.com/ghpvc/?username=EwyRostam">
 </a>
-<a href="https://github.com/Ewyrostam?tab=followers"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/EwyRostam?tab=followers"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a>
 
 
 
