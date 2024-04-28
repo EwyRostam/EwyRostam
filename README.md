@@ -63,7 +63,6 @@
     </a>
 </p>
 
-#### 📊 My Github Stats
 
 <p align="center">
 <a align="center" href="https://github.com/Ewyrostam/github-readme-stats"><img alt="" src="https://github-readme-stats.vercel.app/api?username=Ewyrostam&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"></a> 
