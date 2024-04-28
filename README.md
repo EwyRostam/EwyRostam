@@ -65,11 +65,15 @@
 
 #### 📊 My Github Stats
 
+<p align="center">
+<a align="center" href="https://github.com/Ewyrostam/github-readme-stats"><img alt="" src="https://github-readme-stats.vercel.app/api?username=Ewyrostam&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"></a> 
+</p>
 
-<a align="center" href="https://github.com/Ewyrostam/github-readme-stats" align="center"><img align="center" alt="" src="https://github-readme-stats.vercel.app/api?username=Ewyrostam&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"></a> 
 
-   
-  <a align="center" href="https://github.com/Ewyrostam/github-readme-stats"><img align="center" alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ewyrostam&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<p align="center">
+  <a  href="https://github.com/Ewyrostam/github-readme-stats"><img alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ewyrostam&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+</p>
+  
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
