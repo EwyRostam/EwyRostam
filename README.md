@@ -5,7 +5,7 @@
 
 ### 🌱 About Me
 
-• 💼 Currently working as a Full-Stack developer at **&lt;salt/&gt;** <br>
+• 💼 Currently working as a developer at Scania <br>
 <br>
 • 🎓 My main languages are **C#**, **JavaScript/TypeScript**, **HTML** and **CSS** <br>
 <br>
